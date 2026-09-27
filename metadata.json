@@ -1,0 +1,6 @@
+{
+  "name": "PebbleFlow",
+  "description": "High-performance retro-modern expense and habit tracker with instant OCR payment screenshot capture, mechanical animations, and Pebble physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

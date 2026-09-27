@@ -1,0 +1,52 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Main Pebble Body (Smooth Squircle) -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M38,24 C28,24 24,28 24,38 L24,70 C24,80 28,84 38,84 L70,84 C80,84 84,80 84,70 L84,38 C84,28 80,24 70,24 Z" />
+    
+    <!-- Pebble Time Bezel Border -->
+    <path
+        android:strokeColor="#334155"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M38,24 C28,24 24,28 24,38 L24,70 C24,80 28,84 38,84 L70,84 C80,84 84,80 84,70 L84,38 C84,28 80,24 70,24 Z" />
+
+    <!-- Screen display area (Warm Rice Paper) -->
+    <path
+        android:fillColor="#FAF9F6"
+        android:pathData="M40,32 C34,32 32,34 32,40 L32,68 C32,74 34,76 40,76 L68,76 C74,76 76,74 76,68 L76,40 C76,34 74,32 68,32 Z" />
+
+    <!-- Pebble Flow Pastels Rings: Coral, Sky Blue, Matcha Mint -->
+    <path
+        android:fillColor="#E11D48"
+        android:pathData="M54,42 A6,6 0 1,0 54,54 A6,6 0 1,0 54,42 Z" />
+
+    <path
+        android:strokeColor="#0284C7"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M44,54 A10,10 0 0,1 64,54" />
+
+    <path
+        android:strokeColor="#059669"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M38,62 A16,16 0 0,1 70,62" />
+
+    <!-- Pebble Side Button Accents -->
+    <path
+        android:fillColor="#F43F5E"
+        android:pathData="M84,38 C86,38 87,39 87,41 L87,47 C87,49 86,50 84,50 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M84,58 C86,58 87,59 87,61 L87,67 C87,69 86,70 84,70 Z" />
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M24,46 C22,46 21,47 21,49 L21,55 C21,57 22,58 24,58 Z" />
+</vector>

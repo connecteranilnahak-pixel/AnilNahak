@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PebbleFlow</string>
+    <string name="quick_capture_title">Quick-Capture Receipt</string>
+    <string name="quick_capture_desc">Auto-extract transaction details from screenshot</string>
+</resources>
